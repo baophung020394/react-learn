@@ -23,12 +23,14 @@ import ClassCounter from './components/hook/ClassCounter';
 import HookCounter from './components/hook/HookCounter';
 import HookCounterThree from './components/hook/HookCounterThree';
 import HookCounterFour from './components/hook/HookCounterFour';
+import HookCounterTwo from './components/hook/HookCounterTwo';
 
 function App() {
   return (
     <div className="App">
       <HookCounterFour />
       {/* <HookCounterThree /> */}
+      {/* <HookCounterTwo /> */}
       {/* <HookCounter />
       <ClassCounter /> */}
       {/* <LifeCycleA /> */}
