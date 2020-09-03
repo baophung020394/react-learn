@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import './components/appStyle.css';
-import ClassCounterOne from './components/hook/ClassCounterOne';
 import HookCounterOne from './components/hook/HookCounterOne';
 
 function App() {
