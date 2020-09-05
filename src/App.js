@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
 import './components/appStyle.css';
-import MouseContainer from './components/hook/MouseContainer';
+import IntervalClassCounter from './components/class/IntervalClassCounter';
 
 function App() {
   return (
     <div className="App">
-      <MouseContainer />
+      <IntervalClassCounter />
+      {/* <MouseContainer /> */}
       {/* <HookMouse /> */}
       {/* <ClassMouse /> */}
       {/* <ClassCounterOne /> */}
